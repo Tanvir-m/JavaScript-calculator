@@ -1,0 +1,98 @@
+.main-div{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 10px 15px 12px rgba(0,0,0,0.22);
+    padding: 20px; 
+    border-radius: 15px;
+    margin-top: 200px;
+}
+
+.main-div2{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 10px 15px 12px rgba(0,0,0,0.22);
+    padding: 20px; 
+    border-radius: 15px;
+    margin-top: 200px;
+    background-color: #000;
+}
+
+input.inp{
+    width: 100% !important;
+    height: 80px;
+    border: none;
+    text-align: right;
+    padding-right: 50px;
+    font-size: 50px;
+    background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
+    color: white;
+}
+input.inp:focus{
+    outline: 0;
+}
+
+button.all-btn{
+    width: 70px;
+    height: 55px;
+    padding: 10px;
+    margin: 15px;
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+button.all-btn-zero{
+    width: 173px;
+    height: 55px;
+    padding: 10px;
+    margin: 15px;
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+button.all-btn-zero{
+    outline: 0;
+}
+button.all-btn-zero:hover{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+  
+button.all-btn:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+
+  button.all-btn:focus{
+      outline: 0;
+  }
+
+  button.ce{
+    width: 175px;
+    font-size: 25px;
+
+  }
+
+  input.sm-inp{
+      width: 100%;
+      border: none;
+      text-align: right;
+      padding-right: 50px;
+      font-size: 30px;
+  }
+
+  input.sm-inp:focus{
+      outline: none;
+  }
+
+  button.orange{
+      background-color: #f26600;
+      color: #fff;
+  }
+
+  button.blue{
+      background-color: #116db6;
+      color: #fff;
+  }
+
+  
